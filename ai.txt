@@ -1,0 +1,14 @@
+RULES
+1. read ai.txt files before modifying files in a folder
+2. make and update ai.txt files **as you work** in a folder
+====
+KEY INFO
+| Item | Description |
+| ---- | ----------- |
+| Tech Stack | MkDocs with Material Theme |
+| Deployment | GitHub Pages via GitHub Actions |
+====
+COMMANDS
+Serve locally: mkdocs serve
+Build locally: mkdocs build
+====
